@@ -1,4 +1,4 @@
-RobotTask-1-1. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
+RobotTask-1-1. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
 The robot's field is 7 cells long and 1 cell wide. 
 It has blue walls around the perimeter. 
 The robot's starting position is marked with a blue square. 
